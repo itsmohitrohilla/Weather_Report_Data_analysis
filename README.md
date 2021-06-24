@@ -8,6 +8,7 @@ The weather dataset is time series data set with per hour information about the 
 
 The data is available in the form of .csv file. I used pandas to analyis the data set. I perform these major task which is given below:
 Tasks
+
 Q1. Find all the unique "Wind Speed" value from the data frame.
 
 Q2. Find the number of times when the weather is exactly clear.
